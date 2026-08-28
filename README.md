@@ -26,7 +26,7 @@ La aplicación permite cargar una imagen, aplicarle transformaciones simples (es
 
 ## Funcionalidades
 
-- 📂 **Cargar imagen** desde el disco (`.png`, `.jpg`, `.jpeg`, `.bmp`).
+- 📂 **Cargar imagen** desde el disco (`.png`, `.jpg`, `.jpeg`).
 - 🖼️ **Dos paneles independientes**: imagen de entrada e imagen resultado, para comparar antes/después.
 - ⚙️ **Operaciones de procesamiento**:
   - Conversión a escala de grises (ponderación NTSC: `0.299·R + 0.587·G + 0.114·B`).
