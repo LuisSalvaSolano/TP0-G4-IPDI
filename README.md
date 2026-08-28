@@ -78,7 +78,7 @@ sudo apt install python3-tk
 ## Uso
 
 ```bash
-python axel.py
+python TP0.py
 ```
 
 1. Hacé clic en **Cargar Imagen** y seleccioná un archivo desde el disco.
@@ -92,12 +92,12 @@ python axel.py
 
 ```
 .
-├── axel.py            # Aplicación completa (interfaz + lógica de PDI)
+├── TP0.py            # Aplicación completa (interfaz + lógica de PDI)
 ├── requirements.txt    # Dependencias del proyecto
 └── README.md            # Este archivo
 ```
 
-Toda la aplicación está contenida en `axel.py`, en la clase `PDIApp`, organizada en tres bloques:
+Toda la aplicación está contenida en `TP0.py`, en la clase `PDIApp`, organizada en tres bloques:
 
 | Bloque | Responsabilidad |
 |---|---|
