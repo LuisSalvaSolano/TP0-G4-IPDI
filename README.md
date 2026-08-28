@@ -36,15 +36,6 @@ La aplicación permite cargar una imagen, aplicarle transformaciones simples (es
 - 💾 **Guardar resultado** en formato PNG.
 - 📊 **Histogramas** de intensidad (0–255) por canal, tanto de la imagen de entrada como del resultado, graficados con Matplotlib.
 
-## Capturas
-
-> Agregá acá una o dos capturas de pantalla de la aplicación en ejecución (por ejemplo `docs/screenshot.png`) y enlazalas así:
->
-> ```markdown
-> ![Interfaz principal](docs/screenshot.png)
-> ![Histograma](docs/histograma.png)
-> ```
-
 ## Requisitos
 
 - Python 3.8 o superior
